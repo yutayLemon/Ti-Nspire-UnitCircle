@@ -8,7 +8,7 @@ mousePos.y = 0;
 framesPerSecond = 6;
 timer.start(1/framesPerSecond);
 autoturn = false;
-autoturnRate = 0.08;
+autoturnRate = 0.05;
 
 sinRGB = {R=255,G=0,B=0};
 tanRGB = {R=0,G=255,B=0};
