@@ -95,7 +95,7 @@ function DrawUnitCircle(gc)
     gc:drawString("11π/6",xPos+(0.866*(redius+overText))-1.4*overText,yPos+(0.5*(redius+overText))-1.4*overText);
    
     gc:setPen("thin","smooth");
-        
+    redius = (h*0.5)*0.66;
 end
 
 function updateAngle()
