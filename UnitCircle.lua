@@ -28,10 +28,10 @@ ExactValues = {
 {angle=math.pi*(5/3),sin="-√3/2",cos="1/2",tan="-√3"},
 {angle=math.pi*(2/3),sin="√3/2",cos="-1/2",tan="-√3"},
 {angle=math.pi*(4/3),sin="-√3/2",cos="-1/2",tan="√3"},
-{angle=math.pi*(1/6),sin="1/2",cos="√3/2",tan="√3"},
-{angle=math.pi*(5/6),sin="1/2",cos="-√3/2",tan="-√3"},
-{angle=math.pi*(7/6),sin="-1/2",cos="-√3/2",tan="√3"},
-{angle=math.pi*(11/6),sin="-1/2",cos="√3/2",tan="-√3"}
+{angle=math.pi*(1/6),sin="1/2",cos="√3/2",tan="1/√3"},
+{angle=math.pi*(5/6),sin="1/2",cos="-√3/2",tan="-1/√3"},
+{angle=math.pi*(7/6),sin="-1/2",cos="-√3/2",tan="1/√3"},
+{angle=math.pi*(11/6),sin="-1/2",cos="√3/2",tan="-1/√3"}
 }
 
 
